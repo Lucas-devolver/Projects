@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container_nav{
+    background-color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.nav_a{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+    padding-left: 3px;
+
+}
+.text{
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
+
+.container_main{
+    background-image:url(./img/nunes2.png);
+    height: 93vh;
+    background-size: cover;
+    padding-left: 40px;
+
+
+}
+.button1{
+    background-color: rgba(0,0,0,.50);
+    color: white;  
+    height: 40px; 
+    width:  140px;
+    border-radius: 5px;
+    font-family: 'Dongle', sans-serif;
+    transition: .3s ease all;
+    border: none;
+}
+
+.button1:hover{
+    background-color: white;
+    color: black;
+}
+
+.frontend{
+    color:	white	 ;
+    font-family: 'Dongle';
+    width: 40%;
+}
+.hello{
+    font-size: 50px;
+    color: white;
+
+}
+.all{
+    display: flex;
+    align-items: center;
+}
+.nav_a:hover{
+    color: 	#B0E0E6;
+}
+
+.carrossel{
+    padding-top: 30px;
+}
