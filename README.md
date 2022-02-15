@@ -13,7 +13,7 @@
 
 <p align="center"> Gradient Background</p>
 
-![Page_Background_Gradiant](https://user-images.githubusercontent.com/84019679/154154066-e44f9e10-33bd-4624-b5c2-94b4bedfff69.png)
+https://user-images.githubusercontent.com/84019679/154161271-1b18b6a3-0433-4200-8007-513cd9b1ad43.mp4
 
 <p align="center"> Video Background</p>
 
